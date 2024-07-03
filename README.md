@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the development of advanced structural batteries optimized for satellite buses. These batteries combine energy storage and structural support, aiming to enhance energy efficiency, increase power density, and optimize space utilization within satellites. Atom Space aims to set new standards in satellite battery management through this innovative technology.
+This project plan focuses on the development of advanced structural batteries optimized for satellite buses. These batteries combine energy storage and structural support, aiming to enhance energy efficiency, increase power density, and optimize space utilization within satellites.
 
 ## Table of Contents
 
@@ -28,9 +28,32 @@ Explain the project’s lifecycle, from research to integration, and list the ex
 
 Detail the key phases, including research, design, prototyping, testing, and integration.
 
+![image](https://github.com/pia-gupta27/project-management/assets/138195849/3fbc6106-8285-4655-a4af-f7d8454d4aa4)
+
+
+![image](https://github.com/pia-gupta27/project-management/assets/138195849/073acc4e-dfe2-4ec2-84f3-1f0a3ab2eb4f)
+
+
 ### 4. Project Timeline
 
 Provide a timeline with milestones for each phase.
+
+![image](https://github.com/pia-gupta27/project-management/assets/138195849/762cbe6a-f3f1-4781-b89f-a155bfad12cc)
+
+
+### 6. Project Gantt Chart
+![image](https://github.com/pia-gupta27/project-management/assets/138195849/13821b16-061b-4cfd-a203-df896644a5e4)
+
+
+### 6. Work Breakdown Structure
+![image](https://github.com/pia-gupta27/project-management/assets/138195849/e4f8645a-0964-4ddb-aa00-c98def14282c)
+
+### 6. Task Tracking System
+![image](https://github.com/pia-gupta27/project-management/assets/138195849/61560d76-00cb-4be6-a14b-855216cb8375)
+
+
+
+
 
 ### 5. Project Resources
 
