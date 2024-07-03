@@ -1,4 +1,4 @@
-# Project Management Plan for Structural Battery Development for Satellite Buses
+# Project Management Plan : Structural Battery Development for Satellite Buses
 
 ## Overview
 
